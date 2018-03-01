@@ -1,0 +1,18 @@
+Cutting edge feature:
+
+Animated Splash Screen:
+
+In manifest the start_url could point to a new app (set of pages / features)
+with the splash screen animation on DOMcontentload
+  - Use AMP for pages (definitely landing page)
+
+Goals:
+
+1. Download to homescreen - Make all parts of this perfect
+  - download request from user
+  - app load time / animation
+  - icons for devices
+
+  2. We mirror the image loaded by app icon 
+
+animation
